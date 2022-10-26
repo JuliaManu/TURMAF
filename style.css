@@ -1,1 +1,42 @@
+body {
+    background: #CCCCCC;
+}
 
+#banner {
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    height: 150px;
+    border: 10px solid #000000;
+    padding-top: 20px;
+    margin: 40px;
+}
+
+p {
+    text-align: center;
+}
+
+#sugahara {
+    font-size: 20px;
+}
+
+strong {
+    color: brown;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+.principal {
+    background: #CCCCCC;
+}
+
+h2 {
+    text-align: center
